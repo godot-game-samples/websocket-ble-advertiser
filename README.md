@@ -1,5 +1,8 @@
 ## Websocket BLE Advertiser
 
+<img width="350" src="https://github.com/godot-game-samples/websocket-ble-advertiser/blob/main/assets/screenshot/screen_1.png">
+
+<img width="350" src="https://github.com/godot-game-samples/websocket-ble-advertiser/blob/main/assets/screenshot/screen_2.png">
 
 ```
 python3 client_pi/main.py
